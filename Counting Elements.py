@@ -27,16 +27,6 @@ Explanation: Two 1s are counted cause 2 is in arr.
 
 
 """
-
-
-
-
-
-
-
-
-
-
 class Solution(object):
     def countElements(self, arr):    
         pair_return=0
